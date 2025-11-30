@@ -29,6 +29,7 @@ Project Workflow
 Clone the repository
 
 git clone (https://github.com/GlennTibane/customer_behavior_analysis-.git
+
 cd customer-behavior-analysis-
 
 Open Customer_Shopping_Behavior_Analysis.ipynb notebook
