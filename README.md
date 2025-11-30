@@ -1,4 +1,4 @@
-# customer-trends-data-analysis-SQL-Python-PowerBI
+# customer-behavior-analysis-SQL-
 data analytics project showcasing customer behavior using python, sql and power BI
 
 👨🏻‍💻Customer Behavior Data Analyst Portfolio Project
